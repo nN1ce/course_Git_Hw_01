@@ -4,7 +4,7 @@
   </h3>
 </div>  
 
-
+***
 
  4. Создать внешний репозиторий c названием JSON. ( *Repositories => New => Repository name=course_JSON => Create repository* )
  
@@ -47,6 +47,7 @@
   </h3>
 </div>
 
+***
 
  21. Создать внешний репозиторий c названием XML. ( *Repositories => New => Repository name=course_XML => Create repository* )
  
@@ -91,7 +92,7 @@
   </h3>
 </div>
  
-
+***
 
  1. Создать внешний репозиторий c названием TXT. ( *Repositories => New => Repository name=course_TXT => Create repository* )
  
